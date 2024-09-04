@@ -1,6 +1,9 @@
 # Oeuvre d'art (année de création)
 ### Une oeuvre de 
-équipe de production :
+[équipe de production] :
+- test
+- test
+- test
 
 ## Qu'est-ce que c'est?
 [Description générale] + [Lieu et date de présentation initiale] + [Autres lieux de présentation]
