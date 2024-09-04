@@ -1,9 +1,14 @@
 # Oeuvre d'art (année)
-documentation par Samuel Desmeules-Voyer
+### Une oeuvre de 
+*documentation par Samuel Desmeules-Voyer*
 
-Une oeuvre de
 
-
-### Qu'est-ce que c'est?
+## Qu'est-ce que c'est?
 [Description]
 
+
+## Comment interagit-on avec cette ouvre?
+
+### [l'élément clé qui caractérise l'œuvre]
+
+[son fonctionnement et l'impact qu'elle a sur l'oeuvre]
