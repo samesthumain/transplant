@@ -1,9 +1,5 @@
 # Transplant (2022)
-### Une oeuvre de 
-[équipe de production] :
-- test
-- test
-- test
+### Une oeuvre de Nora Gibson
 
 ## Qu'est-ce que c'est?
 [Description générale] + [Lieu et date de présentation initiale] + [Autres lieux de présentation]
