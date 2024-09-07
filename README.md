@@ -16,7 +16,7 @@
 [les technologies utilisées, les supports ou les médiums exploités + détails sur la manière dont l'œuvre a été développée]
 
 
-##Apréciation
+## Apréciation
 
 
 *documentation par Samuel Desmeules-Voyer*
