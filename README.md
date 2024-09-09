@@ -1,7 +1,7 @@
 # Transplant (2022)
 ### Une oeuvre de Nora Gibson
 
-![Image de Transplant](image.jpg)
+![Image de Transplant](./images/installation_transplant.webp)
 
 ## Qu'est-ce que c'est?
 Transplant est une installation faisant partie du parcours de 23 installations du village numérique par MUTEK
