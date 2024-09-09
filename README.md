@@ -29,10 +29,9 @@ Pour interagire avec cette oeuvre il ne faut que mettre le capteur EEG qui vas �
 ![Capteur complex](./images/capteur_eeg_complex.jpg)
 
 
-## Ce qui rend cette oeuvre unique
+## Ce qui rend cette oeuvre unique?
 
-L'utilisation des ondes thêta émises par le cerveau de l'utilisateur pour en faire un oeuvre extrêmement personnelle fait en sorte d'envoyer un message très positif et optimiste par rapport à la technologie moderne, ce qui n'est pas commun du tout en se momment, ça crée un expérience très positive et personnelle de la technologie.
-
+L'utilisation des ondes cérébrales
 
 ### Technoligies utilisées
 
