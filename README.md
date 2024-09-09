@@ -15,7 +15,8 @@ Présentée aux Condos Laurent et Clark au Quartier des spectacles
 Transplant est une installation qui utilise des ondes cérébrales et les mouvements de ceux qui interagissent avec l'installation pour générer des visuels et des sons  
 [Voici un exemple](https://vimeo.com/770426091)
 
-Les visuels en question, représentés sous la forme d'un réseau ou d'une toile d'araigné dansante servent de visualisation de se qui se passe dans le cerveau mais aussi de métaphore symbolisant comment le corps et l'esprit interagissent et l'effet qu'ils peuvent avoir sur la technologie. Pour renforcer cette idée de la fusion entre le corps et l'esprit et ajouter un touche de personalisation à l'oeuvre, les sphères du réseau sont texturées avec une vidéo de l'artiste qui fait son activité préférée; danser.
+Les visuels en question représentent ce qui se passe dans le cerveau mais aussi une métaphore symbolisant comment le corps et l'esprit interagissent et l'effet qu'ils peuvent avoir sur la technologie.
+les sphères du réseau sont texturées avec une vidéo de l'artiste en train de danser.
 
 C'est une installation interessante pour tous ceux qui s'intéressent à la question de comment on peut faire intéragire la technologie avec l'esprit humain de manière plus personelle et créative dans une ère où l'intelligence artificielle semble être en train de tuer la créativité.
 
