@@ -9,7 +9,6 @@ Cette installation faisant partie du parcours de 23 installations du village num
 ## Qu'est-ce que c'est?
 
 Transplant est une installation qui utilise des ondes cérébrales pour générer des visuels et des sons
-
 [Voici un exemple](https://vimeo.com/770426091)
 
 
