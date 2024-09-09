@@ -13,7 +13,8 @@ Présentée aux Condos Laurent et Clark au Quartier des spectacles
 ## Qu'est-ce que c'est?
 
 Transplant est une installation qui utilise des ondes cérébrales et les mouvements de ceux qui interagissent avec l'installation pour générer des visuels et des sons.  
-[Voici un exemple](https://vimeo.com/770426091)
+
+**[Voici un exemple](https://vimeo.com/770426091)**
 
 Les visuels en question représentent ce qui se passe dans le cerveau et symbolisent une fusion entre l'humain et l technologie.
 
