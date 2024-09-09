@@ -27,8 +27,15 @@ C'est une installation interessante pour tous ceux qui s'intéressent à la ques
 
 ### Ce qui rend cette oeuvre unique [l'élément clé qui caractérise l'œuvre]
 
-L'utilisation 
+L'utilisation des ondes thêta de l'artiste pour en faire un oeuvre extrêmement personnelle fait en sorte d'envoyer un message très positif et optimiste par rapport à la technologie moderne
 
+
+### Technoligies utilisées
+
+Pour la construction de l'
+Métal, toile, matériel informatique, logiciels de visualisation et de son, capteur EEG, capteur Kinect, données physiologiques provenant des ondes thêta humaines et du mouvement.
+
+![Image de Transplant](./images/installation_transplant.webp)
 
 [son fonctionnement et l'impact qu'elle a sur l'oeuvre]
 
