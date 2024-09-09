@@ -11,6 +11,9 @@ Cette installation faisant partie du parcours de 23 installations du village num
 Transplant est une installation qui utilise des ondes cérébrales pour générer des visuels et des sons  
 [Voici un exemple](https://vimeo.com/770426091)
 
+Les visuels en question, représentés sous la forme d'un réseau ou d'une toile d'araigné dansante servent de visualisation de se qui se passe dans le cerveau mais aussi de métaphore symbolisant comment le corps et l'esprit interagissent, l'effet que l'esprit peut avoir sur le monde réel. Pour donner cette impression de fusion entre le corps et l'esprit, les sphères du réseau sont texturées avec une vidéo de l'artiste qui fait son activité préférée; danser.
+
+C'est une installation interessante pour tous ceux qui s'intéressent à la question de comment on peut faire intéragire la technologie et l'humanité de manière plus personelle et créative dans une ère où l'intelligence artificielle semble être en train de tuer la créativité.
 
 [Description générale] + [Lieu et date de présentation initiale] + [Autres lieux de présentation]
 
