@@ -49,7 +49,7 @@ Pour interagir avec cette oeuvre, il ne faut que mettre le capteur EEG qui va ê
 - Capteur Kinect
 - Logiciel TouchDesigner
 
-<img src="./images/transplant_angle.webp" alt="Image de Transplant, angle différent" width="300"/>
+<img src="./images/transplant_angle.webp" alt="Image de Transplant, angle différent" width="500"/>
 
 ### Apréciation
 
