@@ -30,7 +30,7 @@ Pour interagir avec cette oeuvre, il ne faut que mettre le capteur EEG qui va ê
 
 ## Ce qui rend cette oeuvre unique?
 
-L'intégration des ondes cérébrales dans l'oeuvre.
+**L'intégration des ondes cérébrales dans l'oeuvre.**
 
 ### Technoligies utilisées
 
