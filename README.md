@@ -17,7 +17,7 @@ Transplant est une installation qui utilise des ondes cérébrales et les mouvem
 
 Les visuels en question représentent ce qui se passe dans le cerveau et symbolisant une fusion entre l'humain et l technologie.
 
-Cette oeuvre est un commentaire sur la séparation entre la technoogie et la créativité humaine.
+Cette oeuvre est un commentaire sur la séparation entre la technologie et la créativité humaine.
 
 ### Comment interagit-on avec cette ouvre?
 
