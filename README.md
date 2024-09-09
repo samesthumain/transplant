@@ -32,8 +32,15 @@ L'utilisation des ondes thêta de l'artiste pour en faire un oeuvre extrêmement
 
 ### Technoligies utilisées
 
-Pour la construction de l'
-Métal, toile, matériel informatique, logiciels de visualisation et de son, capteur EEG, capteur Kinect, données physiologiques provenant des ondes thêta humaines et du mouvement.
+**Pour la construction de l'installation**
+- Métal
+- Toile
+
+**Pour la réalisation de l'oeuvre**
+- Ordinateur
+- Projecteur
+- 
+- matériel informatique, logiciels de visualisation et de son, capteur EEG, capteur Kinect, données physiologiques provenant des ondes thêta humaines et du mouvement.
 
 ![Image de Transplant](./images/transplant_angle.webp)
 
