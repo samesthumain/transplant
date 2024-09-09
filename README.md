@@ -48,12 +48,9 @@ L'utilisation des ondes thêta émises par le cerveau de l'utilisateur pour en f
 
 ![Image de Transplant, angle différent](./images/transplant_angle.webp)
 
-[son fonctionnement et l'impact qu'elle a sur l'oeuvre]
+### Apréciation
 
-[les technologies utilisées, les supports ou les médiums exploités + détails sur la manière dont l'œuvre a été développée]
-
-
-## Apréciation
+J'apprécie le message de l'oeuvre ce qu'elle tente d'accomplir, je trouve aussis que l'utilisation des ondes cérébrales très ingénieuse et originale, j'aurais bien aimé la voir en action.
 
 
 *documentation par Samuel Desmeules-Voyer*
