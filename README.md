@@ -2,6 +2,10 @@
 ### Une oeuvre de Nora Gibson
 
 ## Qu'est-ce que c'est?
+Transplant est une installation faisant partie du parcours de 23 installations du village numérique par MUTEK
+
+### Première présentation: 
+
 [Description générale] + [Lieu et date de présentation initiale] + [Autres lieux de présentation]
 
 [objectif de l'oeuvre + public cible] + (peut etre aussi le contexte géographique et culturel si c'est utile)
