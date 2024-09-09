@@ -5,7 +5,6 @@
 *[Son site web](https://www.noragibsonvisualist.com/)*
 
 <img src="./images/installation_transplant.webp" alt="Image de Transplant" width="1000"/>
-![Image de Transplant](./images/installation_transplant.webp)
 
 ### Première Présentation: Du 15 au 29 août 2024  
 [![logo de Village Numérique.png](./images/logo_village_numerique.png)](https://village-numerique.mutek.org/)  
