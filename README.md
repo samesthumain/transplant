@@ -5,7 +5,7 @@
 ![Image de Transplant](./images/installation_transplant.webp)
 
 ### Première Présentation: Du 15 au 29 août 2024  
-![logo de Village Numérique.png](./images/logo_village_numerique.png) *[Le site du village numérique](https://village-numerique.mutek.org/)*  
+[![logo de Village Numérique.png](./images/logo_village_numerique.png)](https://village-numerique.mutek.org/)  
 Cette installation faisant partie du parcours de 23 installations du village numérique par MUTEK  
 Présentée aux Condos Laurent et Clark au Quartier des spectacles  
 *Adresse : 1 Blvd. De Maisonneuve Ouest, Montréal, H2X 0E3*
