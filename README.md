@@ -3,11 +3,14 @@
 
 ![Image de Transplant](./images/installation_transplant.webp)
 
+### Première Présentation: Du 15 au 29 août 2024
+Cette installation faisant partie du parcours de 23 installations du village numérique par MUTEK
+
 ## Qu'est-ce que c'est?
-Transplant est une installation faisant partie du parcours de 23 installations du village numérique par MUTEK
 
-### Présentation: Du 15 au 29 août 2024
+Transplant est une installation qui utilise des ondes cérébrales pour générer des visuels et des sons
 
+[Voici un exemple](https://vimeo.com/770426091)
 
 
 [Description générale] + [Lieu et date de présentation initiale] + [Autres lieux de présentation]
