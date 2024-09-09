@@ -4,7 +4,9 @@
 ## Qu'est-ce que c'est?
 Transplant est une installation faisant partie du parcours de 23 installations du village numérique par MUTEK
 
-### Première présentation: 
+### Présentation: Du 15 au 29 août 2024
+
+
 
 [Description générale] + [Lieu et date de présentation initiale] + [Autres lieux de présentation]
 
