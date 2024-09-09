@@ -15,13 +15,13 @@ Présentée aux Condos Laurent et Clark au Quartier des spectacles
 Transplant est une installation qui utilise des ondes cérébrales et les mouvements de ceux qui interagissent avec l'installation pour générer des visuels et des sons.  
 [Voici un exemple](https://vimeo.com/770426091)
 
-Les visuels en question représentent ce qui se passe dans le cerveau et symbolisant une fusion entre l'humain et l technologie.
+Les visuels en question représentent ce qui se passe dans le cerveau et symbolisent une fusion entre l'humain et l technologie.
 
 Cette oeuvre est un commentaire sur la séparation entre la technologie et la créativité humaine.
 
 ### Comment interagit-on avec cette ouvre?
 
-Pour interagire avec cette oeuvre il ne faut que mettre le capteur EEG qui vas être à votre disposition et se placer devans le capteur Kinect
+Pour interagir avec cette oeuvre, il ne faut que mettre le capteur EEG qui va être à votre disposition et se placer devant le capteur Kinect
 
 *examples de capteurs EEG:*  
 ![Capteur simple](./images/capteur_eeg_simple.png)
@@ -50,7 +50,7 @@ L'intégration des ondes cérébrales dans l'oeuvre.
 
 ### Apréciation
 
-J'apprécie le message de l'oeuvre ce qu'elle tente d'accomplir, je trouve aussis que l'utilisation des ondes cérébrales très ingénieuse et originale, j'aurais bien aimé la voir en action.
+J'apprécie le message de l'oeuvre, ce qu'elle tente d'accomplir, je trouve aussis que l'utilisation des ondes cérébrales très ingénieuse et originale, j'aurais bien aimé la voir en action.
 
 
 *documentation par Samuel Desmeules-Voyer*
