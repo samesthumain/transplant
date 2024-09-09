@@ -35,7 +35,7 @@ L'utilisation des ondes thêta de l'artiste pour en faire un oeuvre extrêmement
 Pour la construction de l'
 Métal, toile, matériel informatique, logiciels de visualisation et de son, capteur EEG, capteur Kinect, données physiologiques provenant des ondes thêta humaines et du mouvement.
 
-![Image de Transplant](./images/installation_transplant.webp)
+![Image de Transplant](./images/transplant_angle.webp)
 
 [son fonctionnement et l'impact qu'elle a sur l'oeuvre]
 
