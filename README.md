@@ -11,10 +11,10 @@ Présentée aux Condos Laurent et Clark au Quartier des spectacles
 
 ## Qu'est-ce que c'est?
 
-Transplant est une installation qui utilise des ondes cérébrales pour générer des visuels et des sons  
+Transplant est une installation qui utilise des ondes cérébrales et les mouvements de ceux qui interagissent avec l'installation pour générer des visuels et des sons  
 [Voici un exemple](https://vimeo.com/770426091)
 
-Les visuels en question, représentés sous la forme d'un réseau ou d'une toile d'araigné dansante servent de visualisation de se qui se passe dans le cerveau mais aussi de métaphore symbolisant comment le corps et l'esprit interagissent, l'effet que l'esprit peut avoir sur le monde réel. Pour donner cette impression de fusion entre le corps et l'esprit, les sphères du réseau sont texturées avec une vidéo de l'artiste qui fait son activité préférée; danser.
+Les visuels en question, représentés sous la forme d'un réseau ou d'une toile d'araigné dansante servent de visualisation de se qui se passe dans le cerveau mais aussi de métaphore symbolisant comment le corps et l'esprit interagissent, l'effet que l'esprit peut avoir sur le monde réel. Pour renforcer cette idée de la fusion entre le corps et l'esprit et ajouter un touche de personalisation à l'oeuvre, les sphères du réseau sont texturées avec une vidéo de l'artiste qui fait son activité préférée; danser.
 
 C'est une installation interessante pour tous ceux qui s'intéressent à la question de comment on peut faire intéragire la technologie avec l'esprit humain de manière plus personelle et créative dans une ère où l'intelligence artificielle semble être en train de tuer la créativité.
 
@@ -25,24 +25,29 @@ C'est une installation interessante pour tous ceux qui s'intéressent à la ques
 
 ## Comment interagit-on avec cette ouvre?
 
+Pour interagire avec cette oeuvre il faut mettre le
+
+
 ### Ce qui rend cette oeuvre unique [l'élément clé qui caractérise l'œuvre]
 
-L'utilisation des ondes thêta de l'artiste pour en faire un oeuvre extrêmement personnelle fait en sorte d'envoyer un message très positif et optimiste par rapport à la technologie moderne
+L'utilisation des ondes thêta émises par le cerveau de l'utilisateur pour en faire un oeuvre extrêmement personnelle fait en sorte d'envoyer un message très positif et optimiste par rapport à la technologie moderne, ce qui n'est pas commun du tout en se momment
 
 
 ### Technoligies utilisées
 
 **Pour la construction de l'installation**
-- Métal
+- Structure en métal
 - Toile
 
 **Pour la réalisation de l'oeuvre**
 - Ordinateur
 - Projecteur
-- 
-- matériel informatique, logiciels de visualisation et de son, capteur EEG, capteur Kinect, données physiologiques provenant des ondes thêta humaines et du mouvement.
+- Lumières LED
+- Capteur EEG (Électroencéphalographie)
+- Capteur Kinect
+- Logiciel TouchDesigner
 
-![Image de Transplant](./images/transplant_angle.webp)
+![Image de Transplant, angle différent](./images/transplant_angle.webp)
 
 [son fonctionnement et l'impact qu'elle a sur l'oeuvre]
 
