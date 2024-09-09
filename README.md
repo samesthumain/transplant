@@ -28,7 +28,7 @@ C'est une installation interessante pour tous ceux qui s'intéressent à la ques
 Pour interagire avec cette oeuvre il faut mettre le capteur EEG qui vas être à votre disposition et se placer devans le capteur Kinect
 
 examples de capteurs EEG:  
-![Capteur simple](./images/capteur_eeg_simple.webp)
+![Capteur simple](./images/capteur_eeg_simple.png)
 ![Capteur complex](./images/capteur_eeg_complex.jpg)
 
 
