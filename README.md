@@ -28,9 +28,9 @@ C'est une installation interessante pour tous ceux qui s'intéressent à la ques
 Pour interagire avec cette oeuvre il faut mettre le
 
 
-### Ce qui rend cette oeuvre unique [l'élément clé qui caractérise l'œuvre]
+## Ce qui rend cette oeuvre unique
 
-L'utilisation des ondes thêta émises par le cerveau de l'utilisateur pour en faire un oeuvre extrêmement personnelle fait en sorte d'envoyer un message très positif et optimiste par rapport à la technologie moderne, ce qui n'est pas commun du tout en se momment
+L'utilisation des ondes thêta émises par le cerveau de l'utilisateur pour en faire un oeuvre extrêmement personnelle fait en sorte d'envoyer un message très positif et optimiste par rapport à la technologie moderne, ce qui n'est pas commun du tout en se momment, ça crée un expérience très positive et personnelle de la technologie.
 
 
 ### Technoligies utilisées
