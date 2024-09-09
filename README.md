@@ -1,5 +1,6 @@
 # Transplant (2022)
-### Une oeuvre de  [Nora Gibson](https://www.noragibsonvisualist.com/)
+### Une oeuvre de Nora Gibson
+*[Son site web](https://www.noragibsonvisualist.com/)*
 
 ![Image de Transplant](./images/installation_transplant.webp)
 
