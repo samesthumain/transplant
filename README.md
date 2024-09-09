@@ -18,9 +18,9 @@ Les visuels en question, représentés sous la forme d'un réseau ou d'une toile
 
 C'est une installation interessante pour tous ceux qui s'intéressent à la question de comment on peut faire intéragire la technologie avec l'esprit humain de manière plus personelle et créative dans une ère où l'intelligence artificielle semble être en train de tuer la créativité.
 
-## Comment interagit-on avec cette ouvre?
+### Comment interagit-on avec cette ouvre?
 
-Pour interagire avec cette oeuvre il faut mettre le capteur EEG qui vas être à votre disposition et se placer devans le capteur Kinect
+Pour interagire avec cette oeuvre il ne faut que mettre le capteur EEG qui vas être à votre disposition et se placer devans le capteur Kinect
 
 examples de capteurs EEG:  
 ![Capteur simple](./images/capteur_eeg_simple.png)
